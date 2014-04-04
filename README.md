@@ -8,3 +8,6 @@ CSCI 104 - Lab 11 with Alice &amp;&amp; Bob
   + Thu 5pm Lab
 
 ![Minion Octocat](https://octodex.github.com/images/minion.png)
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
